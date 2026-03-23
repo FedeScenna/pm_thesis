@@ -1,0 +1,7 @@
+.claude/
+claude.md
+PLAN.md
+*.csv
+*.zip
+data/*
+bibliography/*
