@@ -25,3 +25,6 @@ pm4py>=2.7.0
 # Notebook runtime
 jupyter
 ipykernel
+
+#Imbalanced learn
+imbalanced-learn
