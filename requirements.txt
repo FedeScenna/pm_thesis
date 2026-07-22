@@ -26,5 +26,5 @@ pm4py>=2.7.0
 jupyter
 ipykernel
 
-#Imbalanced learn
-imbalanced-learn
+# Imbalanced learn (SMOTE-NC for notebook 04b; compatible with scikit-learn >=1.4)
+imbalanced-learn==0.14.2
